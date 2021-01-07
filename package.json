@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/josephg/noisejs/issues"
   },
-  "homepage": "https://github.com/josephg/noisejs"
+  "homepage": "https://github.com/josephg/noisejs",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "4.11.0",
+    "@typescript-eslint/parser": "4.11.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-security": "1.4.0",
+    "eslint-plugin-unicorn": "24.0.0",
+    "eslint": "7.16.0",
+    "prettier": "2.2.1",
+    "typescript": "4.1.3"
+  }
 }
