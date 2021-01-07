@@ -4,7 +4,8 @@
   "description": "This is a simple library for 2d & 3d perlin noise and simplex noise in javascript. Noise is pretty.",
   "main": "perlin.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
